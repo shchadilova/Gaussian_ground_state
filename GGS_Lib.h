@@ -10,7 +10,7 @@
 
 
 #pragma once
-#include "LiNa_Param.h"
+#include "GGS_Param.h"
 
 inline void mix(double & R, double const & newR, double x)
 {

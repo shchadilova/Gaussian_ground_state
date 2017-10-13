@@ -30,7 +30,7 @@
     typedef double real_type;
     typedef std::vector<real_type> real_vector_type;
 
-#include "headers.cpp"
+#include "GGS_headers.cpp"
 
 ///===========///===========///===========///===========///===========///===========///
 double Kmax=200.; //UV cut-off

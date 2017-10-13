@@ -7,7 +7,7 @@
  *
  */
 ///============================================
-#include "LiNa_Lib.h"
+#include "GGS_Lib.h"
 
 int main(int argc, char **argv)
 {
